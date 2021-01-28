@@ -2,6 +2,9 @@
   .input-field {
     width: 200px !important;
   }
+  .todo-task-container {
+    width: 60% !important;
+  }
 }
 
 .input-field {

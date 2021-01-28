@@ -145,6 +145,7 @@ export const Todo = () => {
                     margin: "0 auto",
                     marginBottom: "5px",
                   }}
+                  className="todo-task-container"
                   key={ind}
                 >
                   <Paper
