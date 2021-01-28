@@ -1,0 +1,13 @@
+@media screen and (max-width: 500px) {
+  .input-field {
+    width: 200px !important;
+  }
+}
+
+.input-field {
+  width: 300px;
+}
+
+.task:hover {
+  background-color: rgb(194, 192, 192);
+}
